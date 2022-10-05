@@ -9,5 +9,5 @@ https://shields.io/
 
 ![](https://img.shields.io/badge/OS-Linux-blue?style=plastic)
 ![](https://img.shields.io/badge/Server-Apache%20MySql-brightgree?style=plastic)
-![](https://img.shields.io/badge/Container-LXC%20LXD-orange?style=plastic)
+![](https://img.shields.io/badge/Container-LXC%20LXD%20Proxmox-orange?style=plastic)
 ![](https://img.shields.io/badge/%3C%3E-PHP%20HTML%20CSS%20-blueviolet?style=plastic)
