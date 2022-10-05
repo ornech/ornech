@@ -9,3 +9,4 @@ https://shields.io/
 
 ![](https://img.shields.io/badge/OS-Linux-blue?style=plastic)
 ![](https://img.shields.io/badge/Server-Apache%20MySql-brightgree?style=plastic)
+![](https://img.shields.io/badge/Container-LXC%20LXD-orange?style=plastic)
