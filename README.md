@@ -9,3 +9,4 @@ ornech/ornech is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=data:image/svg%bxml;base64,<BASE64_DATA>)
