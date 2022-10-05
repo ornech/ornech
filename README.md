@@ -6,5 +6,5 @@ You can click the Preview link to take a look at your changes.
 Badges:
 https://shields.io/
 --->
-![](https://img.shields.io/badge/OS-Linux-informational??style=plastic&logo=linux)
-![](https://img.shields.io/badge/Platform-Linux Windows-blue)
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux)
+![](https://img.shields.io/badge/?style=plastic&logo=linux)
