@@ -6,8 +6,7 @@ You can click the Preview link to take a look at your changes.
 Badges:
 https://shields.io/
 --->
-#### Project
-Git/Github/Jupyter: https://ornech.github.io/sio-book/
+
 
 #### Skills
 ![](https://img.shields.io/badge/OS-Linux-blue?style=plastic)
